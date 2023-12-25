@@ -1,2 +1,15 @@
-# Ethereal-Haven
- "Ethereal Haven" is a beautifully crafted and fully responsive blog website that provides a sanctuary for captivating stories, insightful articles, and stunning visuals. Explore a seamless and immersive reading experience across various devices, ensuring that the content remains accessible and engaging for all users. With a clean and modern design, "Ethereal Haven" is dedicated to delivering a tranquil and inspiring space for both creators and readers.
+# Ethereal Haven Blog
+
+Welcome to Ethereal Haven, a responsive blog website that combines captivating stories with a visually pleasing experience.
+
+## Features
+
+- **Responsive Design:** Enjoy a seamless reading experience on any device.
+- **Engaging Content:** Dive into thought-provoking articles and stunning visuals.
+- **Tranquil Design:** Immerse yourself in a clean and modern aesthetic.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Thesiddemigod/Ethereal-Haven.git
